@@ -91,16 +91,23 @@ Preventive Wellness Initiatives
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](screenshots/landing-page.png)
+![Landing Page]
+
+<img width="1920" height="902" alt="Image" src="https://github.com/user-attachments/assets/021b46fc-ce36-42f2-b018-db9cf511e07c" />
 
 ### 💬 Chat Interface
-![Chat Interface](screenshots/chat-interface.png)
+
+![Chat Interface](<img width="1920" height="911" alt="Image" src="https://github.com/user-attachments/assets/699acb72-b309-498f-a56d-71d03859ab12" />)
 
 ### ❤️ Empathetic Support Responses
-![Chat Response](screenshots/chat-response.png)
+![Chat Response]
+
+<img width="1920" height="907" alt="Image" src="https://github.com/user-attachments/assets/602de485-fcf2-4469-a5b0-7dccc349e568" />
 
 ### 📈 Campus Insights Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]
+
+<img width="1920" height="916" alt="Image" src="https://github.com/user-attachments/assets/d74b91ec-9883-47b1-824f-c6d9f64f5a73" />
 
 ---
 
@@ -169,7 +176,7 @@ MindGuard strives to create emotionally healthier campuses by combining **techno
 
 ## 📬 Contact
 
-📧 **rahiniakawonder@gmail.com**
+📧 **rahinisathyakala@gmail.com**
 
 ---
 
