@@ -96,8 +96,9 @@ Preventive Wellness Initiatives
 <img width="1920" height="902" alt="Image" src="https://github.com/user-attachments/assets/021b46fc-ce36-42f2-b018-db9cf511e07c" />
 
 ### 💬 Chat Interface
+![Chat Interface]
 
-![Chat Interface](<img width="1920" height="911" alt="Image" src="https://github.com/user-attachments/assets/699acb72-b309-498f-a56d-71d03859ab12" />)
+<img width="1920" height="911" alt="Image" src="https://github.com/user-attachments/assets/699acb72-b309-498f-a56d-71d03859ab12" />
 
 ### ❤️ Empathetic Support Responses
 ![Chat Response]
